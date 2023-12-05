@@ -1,4 +1,4 @@
-package com.example.flavours
+package com.example.githubactionstocheck
 
 import io.flutter.embedding.android.FlutterActivity
 
